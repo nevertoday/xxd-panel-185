@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 185"
+  short_description: "Monochrome Sticker with Pale Accent"
+  default_prompt: "Use $xxd-panel-185 to transform my photograph following the complete canonical source brief."
