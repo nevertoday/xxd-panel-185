@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 185｜Monochrome Sticker with Pale Accent: reduces a photo's subject to its outline, gesture, proportions and key features and draws it as one small, sticker-like hand-drawn spot graphic — black or dark-grey hand-drawn lines with white or pale solid shapes, clear edges and a slight hand-made irregularity — placed at or near the centre of wide, clean negative space. The image is almost entirely black and white on a white or warm off-white ground, with a single pale accent colour from the photo, usually ice or sky blue, used only in a tiny area, and a few quiet words at the edge of the whitespace. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-185 or asks for a minimal black-and-white sticker-style spot illustration with one pale accent from a photo.",
+  "short_description": "黑白浅色贴纸小品：把照片主体画成一枚黑白手绘贴纸小图，只点一处浅蓝等浅色",
+  "zh-CN": {
+    "name": "黑白浅色贴纸小品",
+    "tagline": "把照片主体画成一枚小小的黑白手绘贴纸图形，只点一处浅色。",
+    "look": "照片主体只留下轮廓、动作、比例和最能认出的特征，变成一个尺寸很小、独立存在的手绘贴纸式图形，居中或略偏地放在大片干净留白里。黑色或深灰手绘线条配白色、浅色实体形，轮廓清楚，带一点手绘的不规则感。整张几乎只有黑白，唯一的颜色是从照片里取来的一种浅色，常见是浅冰蓝或天空蓝，只占极小一块。留白边缘可以放几个安静的小字。",
+    "traits": ["单个小图形", "手绘贴纸感", "黑白主导", "单点浅色", "大片留白"],
+    "good": [
+      "单一、轮廓清楚的主体：一只狗、一个杯子、一顶帽子、一辆小车",
+      "有一个明确小动作的人或动物：伸懒腰的猫、跳起来的人、叼着球的狗",
+      "想做头像、贴纸、小图标或简洁配图的照片"
+    ],
+    "poor": [
+      "多个主体并列的照片：合影、一桌菜、货架",
+      "必须靠完整背景才能说明的场景：风景、街景、室内全景",
+      "想要丰富色彩、多色并列或大面积色块的需求"
+    ]
+  },
+  "en": {
+    "name": "Monochrome Sticker with Pale Accent",
+    "tagline": "Draws a photo's subject as one small black-and-white hand-drawn sticker graphic with a single pale accent.",
+    "look": "Only the outline, gesture, proportions and most recognisable features of your subject are kept, turned into one very small, self-contained hand-drawn graphic that looks like a sticker, placed at or slightly off the centre of wide, clean whitespace. Black or dark-grey hand-drawn lines meet white or pale solid shapes, with clear edges and a little hand-made irregularity. The whole image is almost only black and white; the one colour is a pale tone taken from the photo, usually ice blue or sky blue, filling only a tiny spot. A few quiet words can sit at the edge of the whitespace.",
+    "traits": ["One small graphic", "Hand-drawn sticker", "Black and white", "Single pale accent", "Wide whitespace"],
+    "good": [
+      "A single subject with a clear outline: a dog, a cup, a hat, a small car",
+      "A person or animal caught in one clear little action: a cat stretching, a person jumping, a dog holding a ball",
+      "Photos you want as an avatar, sticker, small icon or simple illustration"
+    ],
+    "poor": [
+      "Photos with several subjects side by side: group photos, a table of dishes, a store shelf",
+      "Scenes that only make sense with their full background: landscapes, street views, whole rooms",
+      "Requests for rich colour, many colours side by side or large colour areas"
+    ]
+  },
+  "ja": {
+    "name": "淡色を添えた白黒ステッカー小品",
+    "tagline": "写真の主役を、淡い色を一点だけ添えた小さな白黒の手描きステッカー図形にします。",
+    "look": "主役の輪郭、動き、比率、いちばん見分けやすい特徴だけを残し、とても小さく独立した手描きのステッカー風図形にして、広くきれいな余白の中央か少しずらした位置に置きます。黒か濃いグレーの手描きの線に白や淡い色の面を合わせ、輪郭ははっきりしつつ手描きらしい不揃いさが少し残ります。画面はほぼ白と黒だけで、色は写真から取った淡い一色、たいていはアイスブルーや空色を、ごく小さな面積にだけ使います。余白の端に静かな言葉を数語置くこともあります。",
+    "traits": ["小さな単独図形", "手描きステッカー", "白黒が主役", "一点の淡色", "広い余白"],
+    "good": [
+      "輪郭がはっきりした単一の主役：犬、カップ、帽子、小さな車",
+      "はっきりした小さな動きのある人や動物：伸びをする猫、跳ぶ人、ボールをくわえた犬",
+      "アイコン、ステッカー、小さなマーク、シンプルな挿絵にしたい写真"
+    ],
+    "poor": [
+      "複数の主役が並ぶ写真：集合写真、料理の並んだ食卓、商品棚",
+      "背景全体がないと伝わらない場面：風景、街並み、室内の全景",
+      "豊かな色、多色の並置、大きな色面を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "옅은 강조색의 흑백 스티커 소품",
+    "tagline": "사진의 주인공을 옅은 색 한 점만 더한 작은 흑백 손그림 스티커 그래픽으로 그립니다.",
+    "look": "주인공의 윤곽, 동작, 비율, 가장 알아보기 쉬운 특징만 남겨 아주 작고 독립된 스티커 같은 손그림 그래픽으로 만들고, 넓고 깨끗한 여백의 가운데나 살짝 비켜난 자리에 놓습니다. 검정이나 짙은 회색 손그림 선에 흰색이나 옅은 색 면을 더하며, 윤곽은 분명하지만 손그림 특유의 불규칙함이 조금 남습니다. 화면은 거의 흑백뿐이고, 색은 사진에서 가져온 옅은 한 가지, 주로 아이스 블루나 하늘색을 아주 작은 면적에만 씁니다. 여백 가장자리에 조용한 글자 몇 개를 둘 수 있습니다.",
+    "traits": ["작은 단독 그래픽", "손그림 스티커", "흑백 위주", "옅은 색 한 점", "넓은 여백"],
+    "good": [
+      "윤곽이 분명한 하나의 주인공: 강아지, 컵, 모자, 작은 자동차",
+      "분명한 작은 동작이 있는 사람이나 동물: 기지개 켜는 고양이, 점프하는 사람, 공을 문 강아지",
+      "프로필 이미지, 스티커, 작은 아이콘, 간결한 삽화로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "여러 주인공이 나란히 있는 사진: 단체 사진, 음식이 가득한 식탁, 상품 진열대",
+      "배경 전체가 있어야 의미가 통하는 장면: 풍경, 거리, 실내 전경",
+      "풍부한 색, 여러 색의 나열, 넓은 색면을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ملصق أحادي اللون بلمسة فاتحة",
+    "tagline": "يرسم عنصر الصورة ملصقاً صغيراً بالأبيض والأسود مرسوماً باليد، مع لمسة لون فاتح واحدة.",
+    "look": "لا يبقى من العنصر سوى حدوده وحركته ونِسبه وأوضح ملامحه، فيتحول إلى رسم يدوي صغير جداً قائم بذاته يشبه الملصق، يوضع في وسط فراغ واسع ونظيف أو منحرفاً عنه قليلاً. خطوط يدوية سوداء أو رمادية داكنة مع أشكال مصمتة بيضاء أو فاتحة، بحدود واضحة وشيء من عدم الانتظام الذي تتركه اليد. الصورة كلها تقريباً بالأبيض والأسود، واللون الوحيد درجة فاتحة مأخوذة من الصورة، غالباً أزرق جليدي أو سماوي، لا تملأ إلا بقعة صغيرة جداً. يمكن وضع كلمات هادئة قليلة عند حافة الفراغ.",
+    "traits": ["رسم صغير واحد", "ملصق مرسوم باليد", "أبيض وأسود", "لمسة فاتحة واحدة", "فراغ واسع"],
+    "good": [
+      "عنصر واحد واضح الحدود: كلب، فنجان، قبعة، سيارة صغيرة",
+      "شخص أو حيوان في حركة صغيرة واضحة: قطة تتمطى، شخص يقفز، كلب يمسك كرة",
+      "صور تريدها صورة شخصية أو ملصقاً أو أيقونة صغيرة أو رسماً توضيحياً بسيطاً"
+    ],
+    "poor": [
+      "صور فيها عدة عناصر متجاورة: الصور الجماعية، مائدة مليئة بالأطباق، رف متجر",
+      "مشاهد لا تُفهم إلا بخلفيتها الكاملة: المناظر الطبيعية، الشوارع، الغرف بكاملها",
+      "طلب ألوان غنية أو ألوان كثيرة متجاورة أو مساحات لونية كبيرة"
+    ]
+  }
+}

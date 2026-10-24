@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 185"
-  short_description: "Monochrome Sticker with Pale Accent"
-  default_prompt: "Use $xxd-panel-185 to transform my photograph following the complete canonical source brief."
+  short_description: "黑白浅色贴纸小品：把照片主体画成一枚黑白手绘贴纸小图，只点一处浅蓝等浅色"
+  default_prompt: "Use $xxd-panel-185 to turn my photo into Monochrome Sticker with Pale Accent artwork."
